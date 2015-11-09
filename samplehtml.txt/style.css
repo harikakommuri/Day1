@@ -1,0 +1,32 @@
+#welcome
+{position:relative;
+            top:10px;
+            left:10px;
+            color:#111;
+          }
+          p{position:relative;
+          top:20px; }
+#search
+{position:relative;
+            top:30px;
+            left:940px;
+          }
+#purchase{position:relative;
+top:100px;
+left:1060px;}
+#table
+{position:relative;
+top:60px;
+left:15 0px;
+}
+span
+{color:#222;}
+tr
+{padding:20px;}
+body{background:#eee;}
+#images
+{background :#999;}
+#index
+{background:#999;}
+a.hover
+{background:#999;}
