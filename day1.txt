@@ -1,0 +1,8 @@
+Learned what is vi editor.
+How to open a file using vi editor.
+used the commands cp,rm,mv,mkdir,man.
+Got an idea about what is version controlling and created a repository
+Used the tool git amd git commands clone commit add,push,pull.
+
+
+
